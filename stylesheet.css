@@ -1,0 +1,20 @@
+h1 {
+    background: left / cover;
+    display: grid;
+    height: 240px;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif: sans-serif;
+
+}
+p {
+    color: gray;
+    font: 1rem Times
+}
+h2 {
+    margin: 0 0 0 2rem;
+    font: 6rem Sofia
+}
+img{
+
+}
